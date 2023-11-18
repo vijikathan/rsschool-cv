@@ -18,8 +18,8 @@ Motivated and adaptable professional seeking a career change to software develop
 - Organizational Skills: Managed multiple tasks, deadlines, and priorities in a fast-paced environment.
    
 
-
 ## Highest Education:
-Masters in Applied Electronics  
+Masters in Applied Electronics  2008-2010 
 PRIST University, Thanjavur, Tamilnadu, India
+
 
