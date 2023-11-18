@@ -17,6 +17,12 @@ Motivated and adaptable professional seeking a career change to software develop
 - Adaptability: Successfully adapted teaching methods to accommodate various learning styles.
 - Organizational Skills: Managed multiple tasks, deadlines, and priorities in a fast-paced environment.
    
+## Technical Interests:
+
+- Exploring the latest trends and advancements in frontend technologies.
+- Actively participating in online coding communities and forums.
+- Seeking opportunities for continuous learning and skill enhancement.
+
 
 ## Highest Education:
 Masters in Applied Electronics  2008-2010 
