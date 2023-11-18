@@ -1,7 +1,7 @@
 # rsschool-cv
 
-**Vijayalakshmi Krishnamoorthy** | vijikathan14@gmail.com | LinkedIn [https://www.linkedin.com/in/vijayalakshmi-k-67896655/] 
-GitHub [https://github.com/vijikathan]
+**Vijayalakshmi Krishnamoorthy** | vijikathan14@gmail.com | [LinkedIn Profile] (https://www.linkedin.com/in/vijayalakshmi-k-67896655/) 
+[GitHub Profile] (https://github.com/vijikathan)
 
 ## Objective:
 Motivated and adaptable professional seeking a career change to software development, leveraging strong problem-solving, communication, and organizational skills cultivated during a successful teaching career. Eager to contribute to innovative projects and bring a fresh perspective to software development teams.
