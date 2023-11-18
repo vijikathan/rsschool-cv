@@ -22,4 +22,6 @@ Motivated and adaptable professional seeking a career change to software develop
 Masters in Applied Electronics  2008-2010 
 PRIST University, Thanjavur, Tamilnadu, India
 
+## Work Experience
+Worked as an Assistant professor in Electronics and communication department in PRIST University from 2010 to 2014. 
 
